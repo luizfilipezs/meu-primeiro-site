@@ -1,6 +1,6 @@
 # meu-primeiro-site
 
-Código das aulas de HTML e CSS.
+Código das aulas de HTML e CSS que estou ministrando ao Daniel.
 
 ## Requerimentos
 
